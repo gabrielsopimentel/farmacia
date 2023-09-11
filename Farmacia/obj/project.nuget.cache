@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ibN++4tS50P4nBZiKJypzW2je6BOotfw9kesMGRfY7l/5h6Jb0K/RdiejIh7I50NZCVQquzK5XZ9LrKBzfzlDQ==",
+  "dgSpecHash": "pNlRULj5wcdJUpNhJCIS2XX70HTGdQwOHKi/oTQOmmhUpWXuXanw1DMEsdSHNvoNshleY3+pfwFyTCEDscY7LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\recap_review\\Farmacia\\Farmacia.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\recap_review\\farmacia\\Farmacia\\Farmacia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
